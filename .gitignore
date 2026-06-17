@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# Streamlit and local runtime output
+.streamlit/secrets.toml
+youtube_dashboard/output/
+outputs/
+work/
+
+# Personal YouTube Takeout/demo data
+youtube_dashboard/data/greg_demo_youtube_data.json
+*.tgz
+*.tar.gz
+*.zip
+
+# Rendered document QA artifacts
+*.pdf
+page-*.png
+
+# One-off local document editing helpers
+youtube_dashboard/scripts/add_ui_prototype_to_doc.py
+youtube_dashboard/scripts/convert_ui_prototype_to_speaking_points.py
