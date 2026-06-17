@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Python dashboard tutorial",
+    "channel": "Code Learning Lab",
+    "url": "https://www.youtube.com/watch?v=sample001",
+    "watched_at": 1719925200000,
+    "content_type": "YouTube",
+    "keyword_match": "Python dashboard tutorial"
+  },
+  {
+    "title": "Streamlit file upload example",
+    "channel": "Code Learning Lab",
+    "url": "https://www.youtube.com/watch?v=sample002",
+    "watched_at": 1720017000000,
+    "content_type": "YouTube",
+    "keyword_match": "Streamlit file upload example"
+  },
+  {
+    "title": "pandas clean csv",
+    "channel": "YouTube Search",
+    "url": "https://www.youtube.com/results?search_query=pandas+clean+csv",
+    "watched_at": 1720103400000,
+    "content_type": "Search",
+    "keyword_match": "pandas clean csv"
+  },
+  {
+    "title": "Altair interactive charts",
+    "channel": "Data Viz School",
+    "url": "https://www.youtube.com/watch?v=sample003",
+    "watched_at": 1720191600000,
+    "content_type": "YouTube",
+    "keyword_match": "Altair interactive charts"
+  },
+  {
+    "title": "Export CSV in Python",
+    "channel": "Python Project Studio",
+    "url": "https://www.youtube.com/watch?v=sample004",
+    "watched_at": 1720282500000,
+    "content_type": "YouTube",
+    "keyword_match": "Export CSV in Python"
+  },
+  {
+    "title": "youtube takeout history",
+    "channel": "YouTube Search",
+    "url": "https://www.youtube.com/results?search_query=youtube+takeout+history",
+    "watched_at": 1720368000000,
+    "content_type": "Search",
+    "keyword_match": "youtube takeout history"
+  },
+  {
+    "title": "Build a school project with Python",
+    "channel": "Student Coding Help",
+    "url": "https://www.youtube.com/watch?v=sample005",
+    "watched_at": 1720459800000,
+    "content_type": "YouTube",
+    "keyword_match": "Build a school project with Python"
+  },
+  {
+    "title": "Data cleaning beginner guide",
+    "channel": "Data Viz School",
+    "url": "https://www.youtube.com/watch?v=sample006",
+    "watched_at": 1720546200000,
+    "content_type": "YouTube",
+    "keyword_match": "Data cleaning beginner guide"
+  }
+]
